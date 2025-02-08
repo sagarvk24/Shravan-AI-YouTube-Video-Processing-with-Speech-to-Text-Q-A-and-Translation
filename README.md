@@ -1,7 +1,7 @@
-# EchoTranscribe: AI YouTube Video Processing with Speech-to-Text, Q&A, and Translation
+# Shravan: AI YouTube Video Processing with Speech-to-Text, Q&A, and Translation
 
 ## 📌 Overview
-EchoTranscribe is an AI-powered tool designed to process YouTube videos by converting speech to text, translating transcripts, summarizing content, and enabling contextual Q&A. 
+Shravan is an AI-powered tool designed to process YouTube videos by converting speech to text, translating transcripts, summarizing content, and enabling contextual Q&A. 
 This project leverages on **Speech Recognition**, **Advance NLP**, **Hugging Face**, and **Seq2Seq LLMs** 
 
 ## ✨ Features
